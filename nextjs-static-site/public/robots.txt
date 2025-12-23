@@ -11,4 +11,4 @@ Allow: /static/
 Allow: /images/
 
 # Sitemap
-Sitemap: https://ayman-teaching.vercel.app/sitemap.xml
+Sitemap: https://ayman-teaching-home-and-it-firm.vercel.app/sitemap.xml

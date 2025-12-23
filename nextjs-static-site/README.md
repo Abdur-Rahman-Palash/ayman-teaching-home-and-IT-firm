@@ -151,7 +151,7 @@ cp .env.example .env.local
 
 **তৈরি করেছেন**: Md Abdur Rahman Palash  
 **ইনস্টিটিউশন**: আয়মান টিচিং হোম এন্ড আইটি ফার্ম  
-**ওয়েবসাইট**: [ayman-teaching.vercel.app](https://ayman-teaching.vercel.app)
+**ওয়েবসাইট**: [https://ayman-teaching-home-and-it-firm.vercel.app](https://ayman-teaching-home-and-it-firm.vercel.app)
 
 2. Run development server:
 ```bash

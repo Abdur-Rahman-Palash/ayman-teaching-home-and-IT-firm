@@ -13,14 +13,14 @@ export const metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://ayman-teaching.vercel.app'),
+  metadataBase: new URL('https://ayman-teaching-home-and-it-firm.vercel.app'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     title: 'আয়মান টিচিং হোম এন্ড আইটি ফার্ম',
     description: 'মানসম্পন্ন শিক্ষা এবং আইটি প্রশিক্ষণের আধুনিক প্ল্যাটফর্ম',
-    url: 'https://ayman-teaching.vercel.app',
+    url: 'https://ayman-teaching-home-and-it-firm.vercel.app',
     siteName: 'Ayman Teaching Home & IT Firm',
     locale: 'bn_BD',
     type: 'website',
