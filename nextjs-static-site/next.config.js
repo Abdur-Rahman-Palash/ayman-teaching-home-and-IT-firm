@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  output: 'export',
+  // Remove static export for Vercel deployment
+  // output: 'export',
   trailingSlash: true,
   images: {
-    unoptimized: true,
     domains: ['localhost'],
   },
   compiler: {
@@ -15,6 +15,4 @@ module.exports = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  // Optimize for static export
-  assetPrefix: process.env.NODE_ENV === 'production' ? '' : '',
 };
