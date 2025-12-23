@@ -1,0 +1,30 @@
+{
+  "name": "আয়মান টিচিং হোম এন্ড আইটি ফার্ম",
+  "short_name": "আয়মান টিচিং",
+  "description": "মানসম্পন্ন শিক্ষা এবং আইটি প্রশিক্ষণের আধুনিক প্ল্যাটফর্ম",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2937",
+  "orientation": "portrait-primary",
+  "categories": ["education", "technology"],
+  "lang": "bn-BD",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
